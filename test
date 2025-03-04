@@ -1,2 +1,3 @@
+rs.close();
 Connection con;
 hello world
