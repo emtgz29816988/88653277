@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 test.fetch();
 props.load(fs);
 if (out != null) {
