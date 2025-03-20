@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 BufferedWriter out = null;
 test.init();
 OracleJdbcTest test = new OracleJdbcTest();
