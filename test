@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 public class OracleJdbcTest
 public class OracleJdbcTest
 BufferedWriter out = null;
