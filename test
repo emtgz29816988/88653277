@@ -1,3 +1,4 @@
+out.write(”aString”);
 Class.forName(driverClass);
 public class OracleJdbcTest
 public class OracleJdbcTest
