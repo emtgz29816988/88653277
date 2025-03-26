@@ -1,3 +1,4 @@
+if (out != null) {
 ResultSet rs = ps.executeQuery();
 out.write(”aString”);
 Class.forName(driverClass);
