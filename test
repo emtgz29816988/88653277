@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 out.write(”aString”);
 Class.forName(driverClass);
 public class OracleJdbcTest
